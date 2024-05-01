@@ -9,3 +9,8 @@ He desarrollado este proyecto backend JS para demostrar como puedo crear Restful
 
 Caracteristicas API
 Esta api puede crear, leer, actualizar y borrar data de cualquier mocdelo de base de datos. Para mi proyecto he escogido una base de datos de Productos.
+
+** Hacer el CRUD de una colección de MongoDB
+** Crea mínimo una relación entre dos colecciones y haz una petición al servidor, aplicando un filtro de
+datos
+** Hacer 2 rutas privadas, es decir, hacer login y registro de usuario para poder acceder a ellas
