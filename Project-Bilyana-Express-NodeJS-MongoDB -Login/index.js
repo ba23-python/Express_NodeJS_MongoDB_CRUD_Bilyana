@@ -16,8 +16,8 @@ connectDB();
 
 //routerProducts se va a llamar distinto
 
-server.use("/", routerProducts);
-server.use("/", orderRoutes);
+server.use("/product", routerProducts);
+server.use("/order", orderRoutes);
 server.use('/user', routerUser);
 
 //ejecucion del servidor siempre lo mismo
