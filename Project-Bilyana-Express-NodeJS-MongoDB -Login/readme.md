@@ -13,6 +13,6 @@ Esta api puede crear, leer, actualizar y borrar data de cualquier mocdelo de bas
 Hacer el CRUD de una colección de MongoDB
 Crea mínimo una relación entre dos colecciones y haz una petición al servidor, aplicando un filtro de
 datos
-Hacer 2 rutas privadas, es decir, hacer login y registro de usuario para poder acceder a ellas
+Hacer 2 rutas privadas, es decir, hacer login y registro de usuario para poder acceder a ellas. utilizando la función populate(), traigo datos de una colección a otra gracias a una relación.
 
 ![image](https://github.com/ba23-python/API_NodeJS_Project_Bilyana/assets/153090623/227f9ebc-9d2d-4932-b743-5c9674994542)
