@@ -16,5 +16,9 @@ datos
 Hacer 2 rutas privadas, es decir, hacer login y registro de usuario para poder acceder a ellas.  utilizando la función populate(), traigo datos de una colección a otra gracias a una relación.
 Publicar el proyecto en el servidor Render
 Crea una interfaz sencilla para acceder a la API creada hacer login y registro de usuario
+
+
+
+
 ![image](https://github.com/ba23-python/API_NodeJS_Project_Bilyana/assets/153090623/227f9ebc-9d2d-4932-b743-5c9674994542)
 
