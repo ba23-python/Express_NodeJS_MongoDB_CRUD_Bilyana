@@ -8,7 +8,7 @@ The application can create, read, update and delete data, for 2 db collections: 
 He desarrollado este proyecto backend JS para demostrar como puedo crear Res API con Node.js, Express and MongoDB.
 
 Caracteristicas API
-Esta api puede crear, leer, actualizar y borrar data de cualquier mocdelo de base de datos. Para mi proyecto he escogido una base de datos de Productos y Pedidos los que interactuan entre ellos. MongoDB esta conectado con Render.
+Esta api puede crear, leer, actualizar y borrar data de cualquier modelo de base de datos. Para mi proyecto he escogido una base de datos de Productos y Pedidos los que interactuan entre ellos. MongoDB esta conectado con Render.
 
 Hacer el CRUD de una colección de MongoDB
 Crea mínimo una relación entre dos colecciones y haz una petición al servidor, aplicando un filtro de
